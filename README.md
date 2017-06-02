@@ -1,7 +1,18 @@
 Google Trend Hot Videos Crawler
 ===
 
-Video item format
+## Requirement
+
+- Python 2.7
+
+## Usage
+
+```
+python crawler.py
+```
+
+
+## Video item format
 
 ```
 {
